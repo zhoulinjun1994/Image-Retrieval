@@ -1,3 +1,3 @@
 ```
-This folder includes the feature extraction algorithm.
+This folder includes the tag extraction algorithm.
 ```
