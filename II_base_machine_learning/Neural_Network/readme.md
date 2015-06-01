@@ -3,7 +3,7 @@ This folder includes the Neural Network algorithm.
 
 我把这里先当做草稿理顺一下思路吧= =
 
-concept中有10个文件。每个文件有269628行，每行是0或者1表示id为行数的图片是否存在某个concept。
+concept中有10个文件。每个文件有269648行，每行是0或者1表示id为行数的图片是否存在某个concept。
 
 数据集有三个，分别为database，test以及train。数据集大小分别为100000，2000和30000。
 每个数据集有三个文件叫做id，data_image以及data_text，分别为图片的编号，图片的特征（500维的int向量）以及图片的tag（1000长度的01串）。
