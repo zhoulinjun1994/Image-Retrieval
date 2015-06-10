@@ -1,0 +1,1103 @@
+init done
+
+
+training 0
+starting 500th training... cur avg sum : 0.562
+	status: 0/250 5/250
+starting 1500th training... cur avg sum : 0.555
+	status: 0/750 5/750
+starting 2500th training... cur avg sum : 0.542
+	status: 184/1250 149/1250
+starting 3500th training... cur avg sum : 0.507
+	status: 562/1750 469/1750
+starting 4500th training... cur avg sum : 0.467
+	status: 967/2250 827/2250
+starting 5500th training... cur avg sum : 0.435
+	status: 1374/2750 1220/2750
+starting 6500th training... cur avg sum : 0.404
+	status: 1801/3250 1643/3250
+starting 7500th training... cur avg sum : 0.383
+	status: 2220/3750 2063/3750
+starting 8500th training... cur avg sum : 0.365
+	status: 2652/4250 2473/4250
+starting 9500th training... cur avg sum : 0.348
+	status: 3095/4750 2898/4750
+starting 10500th training... cur avg sum : 0.334
+	status: 3534/5250 3332/5250
+starting 11500th training... cur avg sum : 0.322
+	status: 3971/5750 3766/5750
+starting 12500th training... cur avg sum : 0.310
+	status: 4413/6250 4207/6250
+starting 13500th training... cur avg sum : 0.300
+	status: 4857/6750 4659/6750
+starting 14500th training... cur avg sum : 0.290
+	status: 5307/7250 5111/7250
+starting 15500th training... cur avg sum : 0.283
+	status: 5755/7750 5543/7750
+starting 16500th training... cur avg sum : 0.275
+	status: 6207/8250 5996/8250
+starting 17500th training... cur avg sum : 0.268
+	status: 6661/8750 6445/8750
+starting 18500th training... cur avg sum : 0.262
+	status: 7106/9250 6900/9250
+starting 19500th training... cur avg sum : 0.257
+	status: 7553/9750 7351/9750
+starting 20500th training... cur avg sum : 0.252
+	status: 8008/10250 7794/10250
+starting 21500th training... cur avg sum : 0.247
+	status: 8469/10750 8237/10750
+starting 22500th training... cur avg sum : 0.242
+	status: 8935/11250 8693/11250
+starting 23500th training... cur avg sum : 0.237
+	status: 9389/11750 9149/11750
+starting 24500th training... cur avg sum : 0.233
+	status: 9849/12250 9613/12250
+starting 25500th training... cur avg sum : 0.228
+	status: 10308/12750 10081/12750
+starting 26500th training... cur avg sum : 0.226
+	status: 10760/13250 10532/13250
+starting 27500th training... cur avg sum : 0.223
+	status: 11221/13750 10984/13750
+starting 28500th training... cur avg sum : 0.219
+	status: 11682/14250 11449/14250
+starting 29500th training... cur avg sum : 0.216
+	status: 12137/14750 11909/14750
+testing 0
+now testing 5000
+	4667/5001 0/0
+now testing 15000
+	9294/10037 4695/4964
+now testing 25000
+	9628/10453 13635/14548
+now testing 35000
+	11019/11940 21176/23061
+now testing 45000
+	12199/13207 28975/31794
+now testing 55000
+	12455/13559 37490/41442
+now testing 65000
+	12807/13960 45604/51041
+now testing 75000
+	13274/14505 53962/60496
+now testing 85000
+	13907/15226 62456/69775
+now testing 95000
+	14287/15704 71215/79297
+finish database
+finish test 0
+50 correct rate : [0.901 0.892 0.902]
+150 correct rate : [0.898 0.855 0.906]
+250 correct rate : [0.916 0.864 0.924]
+350 correct rate : [0.936 0.865 0.943]
+450 correct rate : [0.945 0.861 0.951]
+550 correct rate : [0.951 0.862 0.957]
+650 correct rate : [0.950 0.862 0.956]
+750 correct rate : [0.949 0.865 0.954]
+850 correct rate : [0.951 0.861 0.956]
+950 correct rate : [0.955 0.858 0.960]
+1050 correct rate : [0.957 0.856 0.961]
+1150 correct rate : [0.957 0.853 0.961]
+1250 correct rate : [0.957 0.850 0.961]
+1350 correct rate : [0.958 0.848 0.962]
+1450 correct rate : [0.959 0.843 0.963]
+1550 correct rate : [0.960 0.844 0.963]
+1650 correct rate : [0.960 0.845 0.963]
+1750 correct rate : [0.961 0.846 0.964]
+1850 correct rate : [0.962 0.847 0.965]
+1950 correct rate : [0.963 0.847 0.966]
+
+
+training 1
+starting 500th training... cur avg sum : 0.562
+	status: 0/250 5/250
+starting 1500th training... cur avg sum : 0.555
+	status: 0/750 5/750
+starting 2500th training... cur avg sum : 0.554
+	status: 0/1250 5/1250
+starting 3500th training... cur avg sum : 0.553
+	status: 0/1750 5/1750
+starting 4500th training... cur avg sum : 0.552
+	status: 2/2250 13/2250
+starting 5500th training... cur avg sum : 0.545
+	status: 278/2750 230/2750
+starting 6500th training... cur avg sum : 0.527
+	status: 665/3250 521/3250
+starting 7500th training... cur avg sum : 0.509
+	status: 1050/3750 847/3750
+starting 8500th training... cur avg sum : 0.493
+	status: 1459/4250 1181/4250
+starting 9500th training... cur avg sum : 0.478
+	status: 1854/4750 1546/4750
+starting 10500th training... cur avg sum : 0.466
+	status: 2252/5250 1904/5250
+starting 11500th training... cur avg sum : 0.455
+	status: 2660/5750 2256/5750
+starting 12500th training... cur avg sum : 0.444
+	status: 3077/6250 2641/6250
+starting 13500th training... cur avg sum : 0.435
+	status: 3492/6750 3016/6750
+starting 14500th training... cur avg sum : 0.426
+	status: 3909/7250 3398/7250
+starting 15500th training... cur avg sum : 0.419
+	status: 4343/7750 3750/7750
+starting 16500th training... cur avg sum : 0.413
+	status: 4768/8250 4115/8250
+starting 17500th training... cur avg sum : 0.406
+	status: 5192/8750 4502/8750
+starting 18500th training... cur avg sum : 0.399
+	status: 5621/9250 4893/9250
+starting 19500th training... cur avg sum : 0.395
+	status: 6044/9750 5263/9750
+starting 20500th training... cur avg sum : 0.390
+	status: 6461/10250 5648/10250
+starting 21500th training... cur avg sum : 0.386
+	status: 6875/10750 6042/10750
+starting 22500th training... cur avg sum : 0.382
+	status: 7306/11250 6421/11250
+starting 23500th training... cur avg sum : 0.379
+	status: 7735/11750 6802/11750
+starting 24500th training... cur avg sum : 0.375
+	status: 8173/12250 7171/12250
+starting 25500th training... cur avg sum : 0.372
+	status: 8589/12750 7551/12750
+starting 26500th training... cur avg sum : 0.370
+	status: 9016/13250 7931/13250
+starting 27500th training... cur avg sum : 0.366
+	status: 9441/13750 8315/13750
+starting 28500th training... cur avg sum : 0.363
+	status: 9879/14250 8704/14250
+starting 29500th training... cur avg sum : 0.360
+	status: 10312/14750 9099/14750
+testing 1
+now testing 5000
+	18/25 4684/4976
+now testing 15000
+	4306/5039 9410/9962
+now testing 25000
+	9123/10744 12421/14257
+now testing 35000
+	9848/11660 19351/23341
+now testing 45000
+	10376/12319 26806/32682
+now testing 55000
+	10770/12813 34236/42188
+now testing 65000
+	11006/13123 41819/51878
+now testing 75000
+	11724/14010 49012/60991
+now testing 85000
+	12735/15188 55426/69813
+now testing 95000
+	14228/16879 60357/78122
+finish database
+finish test 1
+50 correct rate : [0.986 nan 0.986]
+150 correct rate : [0.987 0.848 0.987]
+250 correct rate : [0.943 0.669 0.954]
+350 correct rate : [0.896 0.731 0.910]
+450 correct rate : [0.881 0.735 0.894]
+550 correct rate : [0.884 0.730 0.896]
+650 correct rate : [0.892 0.726 0.903]
+750 correct rate : [0.898 0.722 0.908]
+850 correct rate : [0.898 0.722 0.908]
+950 correct rate : [0.901 0.719 0.911]
+1050 correct rate : [0.903 0.717 0.912]
+1150 correct rate : [0.905 0.719 0.913]
+1250 correct rate : [0.906 0.716 0.913]
+1350 correct rate : [0.910 0.713 0.918]
+1450 correct rate : [0.908 0.712 0.915]
+1550 correct rate : [0.907 0.714 0.913]
+1650 correct rate : [0.905 0.715 0.912]
+1750 correct rate : [0.906 0.715 0.913]
+1850 correct rate : [0.901 0.721 0.907]
+1950 correct rate : [0.894 0.726 0.900]
+
+
+training 2
+starting 500th training... cur avg sum : 0.562
+	status: 0/250 6/250
+starting 1500th training... cur avg sum : 0.555
+	status: 0/750 6/750
+starting 2500th training... cur avg sum : 0.541
+	status: 191/1250 173/1250
+starting 3500th training... cur avg sum : 0.510
+	status: 575/1750 469/1750
+starting 4500th training... cur avg sum : 0.482
+	status: 979/2250 797/2250
+starting 5500th training... cur avg sum : 0.468
+	status: 1386/2750 1112/2750
+starting 6500th training... cur avg sum : 0.451
+	status: 1794/3250 1451/3250
+starting 7500th training... cur avg sum : 0.437
+	status: 2208/3750 1796/3750
+starting 8500th training... cur avg sum : 0.426
+	status: 2623/4250 2139/4250
+starting 9500th training... cur avg sum : 0.417
+	status: 3045/4750 2484/4750
+starting 10500th training... cur avg sum : 0.408
+	status: 3464/5250 2846/5250
+starting 11500th training... cur avg sum : 0.401
+	status: 3883/5750 3200/5750
+starting 12500th training... cur avg sum : 0.394
+	status: 4304/6250 3565/6250
+starting 13500th training... cur avg sum : 0.388
+	status: 4737/6750 3922/6750
+starting 14500th training... cur avg sum : 0.383
+	status: 5168/7250 4293/7250
+starting 15500th training... cur avg sum : 0.378
+	status: 5592/7750 4672/7750
+starting 16500th training... cur avg sum : 0.374
+	status: 6015/8250 5050/8250
+starting 17500th training... cur avg sum : 0.371
+	status: 6441/8750 5414/8750
+starting 18500th training... cur avg sum : 0.368
+	status: 6866/9250 5780/9250
+starting 19500th training... cur avg sum : 0.366
+	status: 7293/9750 6138/9750
+starting 20500th training... cur avg sum : 0.362
+	status: 7728/10250 6508/10250
+starting 21500th training... cur avg sum : 0.359
+	status: 8171/10750 6879/10750
+starting 22500th training... cur avg sum : 0.356
+	status: 8597/11250 7247/11250
+starting 23500th training... cur avg sum : 0.353
+	status: 9028/11750 7637/11750
+starting 24500th training... cur avg sum : 0.350
+	status: 9458/12250 8020/12250
+starting 25500th training... cur avg sum : 0.348
+	status: 9887/12750 8392/12750
+starting 26500th training... cur avg sum : 0.347
+	status: 10316/13250 8752/13250
+starting 27500th training... cur avg sum : 0.345
+	status: 10742/13750 9134/13750
+starting 28500th training... cur avg sum : 0.344
+	status: 11172/14250 9501/14250
+starting 29500th training... cur avg sum : 0.342
+	status: 11606/14750 9863/14750
+testing 2
+now testing 5000
+	271/536 4200/4465
+now testing 15000
+	1848/3202 10745/11799
+now testing 25000
+	6348/9988 13313/15013
+now testing 35000
+	11055/16726 16248/18275
+now testing 45000
+	14979/21649 20159/23352
+now testing 55000
+	17669/24987 25698/30014
+now testing 65000
+	18755/26528 33539/38473
+now testing 75000
+	21965/30942 38040/44059
+now testing 85000
+	26025/36206 41229/48795
+now testing 95000
+	28152/39394 46939/55607
+finish database
+finish test 2
+50 correct rate : [0.970 0.000 0.985]
+150 correct rate : [0.965 0.354 0.971]
+250 correct rate : [0.937 0.399 0.966]
+350 correct rate : [0.911 0.360 0.955]
+450 correct rate : [0.881 0.422 0.947]
+550 correct rate : [0.853 0.447 0.940]
+650 correct rate : [0.846 0.433 0.941]
+750 correct rate : [0.852 0.445 0.943]
+850 correct rate : [0.847 0.453 0.936]
+950 correct rate : [0.839 0.474 0.927]
+1050 correct rate : [0.842 0.478 0.927]
+1150 correct rate : [0.852 0.475 0.932]
+1250 correct rate : [0.858 0.474 0.934]
+1350 correct rate : [0.863 0.476 0.937]
+1450 correct rate : [0.861 0.482 0.935]
+1550 correct rate : [0.855 0.489 0.929]
+1650 correct rate : [0.855 0.499 0.927]
+1750 correct rate : [0.852 0.504 0.923]
+1850 correct rate : [0.854 0.503 0.925]
+1950 correct rate : [0.857 0.499 0.926]
+
+
+training 3
+starting 500th training... cur avg sum : 0.562
+	status: 0/250 6/250
+starting 1500th training... cur avg sum : 0.555
+	status: 0/750 6/750
+starting 2500th training... cur avg sum : 0.554
+	status: 0/1250 6/1250
+starting 3500th training... cur avg sum : 0.553
+	status: 0/1750 6/1750
+starting 4500th training... cur avg sum : 0.552
+	status: 66/2250 68/2250
+starting 5500th training... cur avg sum : 0.544
+	status: 377/2750 307/2750
+starting 6500th training... cur avg sum : 0.526
+	status: 752/3250 619/3250
+starting 7500th training... cur avg sum : 0.513
+	status: 1122/3750 930/3750
+starting 8500th training... cur avg sum : 0.498
+	status: 1517/4250 1264/4250
+starting 9500th training... cur avg sum : 0.484
+	status: 1910/4750 1610/4750
+starting 10500th training... cur avg sum : 0.473
+	status: 2310/5250 1952/5250
+starting 11500th training... cur avg sum : 0.464
+	status: 2721/5750 2284/5750
+starting 12500th training... cur avg sum : 0.454
+	status: 3126/6250 2645/6250
+starting 13500th training... cur avg sum : 0.445
+	status: 3535/6750 2996/6750
+starting 14500th training... cur avg sum : 0.438
+	status: 3936/7250 3356/7250
+starting 15500th training... cur avg sum : 0.430
+	status: 4353/7750 3728/7750
+starting 16500th training... cur avg sum : 0.425
+	status: 4756/8250 4102/8250
+starting 17500th training... cur avg sum : 0.420
+	status: 5172/8750 4458/8750
+starting 18500th training... cur avg sum : 0.416
+	status: 5578/9250 4814/9250
+starting 19500th training... cur avg sum : 0.411
+	status: 5990/9750 5179/9750
+starting 20500th training... cur avg sum : 0.407
+	status: 6400/10250 5539/10250
+starting 21500th training... cur avg sum : 0.403
+	status: 6821/10750 5905/10750
+starting 22500th training... cur avg sum : 0.400
+	status: 7238/11250 6257/11250
+starting 23500th training... cur avg sum : 0.396
+	status: 7651/11750 6633/11750
+starting 24500th training... cur avg sum : 0.393
+	status: 8071/12250 6999/12250
+starting 25500th training... cur avg sum : 0.389
+	status: 8498/12750 7374/12750
+starting 26500th training... cur avg sum : 0.387
+	status: 8914/13250 7738/13250
+starting 27500th training... cur avg sum : 0.384
+	status: 9333/13750 8100/13750
+starting 28500th training... cur avg sum : 0.381
+	status: 9755/14250 8469/14250
+starting 29500th training... cur avg sum : 0.379
+	status: 10172/14750 8839/14750
+testing 3
+now testing 5000
+	680/883 3192/4118
+now testing 15000
+	1424/2019 10670/12982
+now testing 25000
+	2110/3050 18678/21951
+now testing 35000
+	5980/8643 22525/26358
+now testing 45000
+	9588/14096 26501/30905
+now testing 55000
+	9919/14692 34948/40309
+now testing 65000
+	11505/16693 41725/48308
+now testing 75000
+	12940/18639 48182/56362
+now testing 85000
+	13507/19579 56156/65422
+now testing 95000
+	13805/20184 64649/74817
+finish database
+finish test 3
+50 correct rate : [0.931 0.605 0.943]
+150 correct rate : [0.927 0.499 0.945]
+250 correct rate : [0.931 0.435 0.946]
+350 correct rate : [0.940 0.439 0.954]
+450 correct rate : [0.946 0.441 0.958]
+550 correct rate : [0.942 0.460 0.956]
+650 correct rate : [0.934 0.422 0.955]
+750 correct rate : [0.919 0.440 0.950]
+850 correct rate : [0.915 0.425 0.951]
+950 correct rate : [0.922 0.426 0.953]
+1050 correct rate : [0.926 0.425 0.955]
+1150 correct rate : [0.930 0.426 0.957]
+1250 correct rate : [0.930 0.436 0.957]
+1350 correct rate : [0.929 0.439 0.954]
+1450 correct rate : [0.928 0.443 0.953]
+1550 correct rate : [0.928 0.443 0.952]
+1650 correct rate : [0.929 0.443 0.953]
+1750 correct rate : [0.930 0.442 0.953]
+1850 correct rate : [0.931 0.441 0.953]
+1950 correct rate : [0.933 0.441 0.955]
+
+
+training 4
+starting 500th training... cur avg sum : 0.562
+	status: 0/250 5/250
+starting 1500th training... cur avg sum : 0.554
+	status: 4/750 8/750
+starting 2500th training... cur avg sum : 0.512
+	status: 334/1250 283/1250
+starting 3500th training... cur avg sum : 0.461
+	status: 744/1750 637/1750
+starting 4500th training... cur avg sum : 0.430
+	status: 1152/2250 1015/2250
+starting 5500th training... cur avg sum : 0.409
+	status: 1571/2750 1393/2750
+starting 6500th training... cur avg sum : 0.392
+	status: 1989/3250 1764/3250
+starting 7500th training... cur avg sum : 0.376
+	status: 2417/3750 2161/3750
+starting 8500th training... cur avg sum : 0.363
+	status: 2859/4250 2540/4250
+starting 9500th training... cur avg sum : 0.352
+	status: 3293/4750 2936/4750
+starting 10500th training... cur avg sum : 0.344
+	status: 3733/5250 3319/5250
+starting 11500th training... cur avg sum : 0.335
+	status: 4173/5750 3719/5750
+starting 12500th training... cur avg sum : 0.329
+	status: 4616/6250 4113/6250
+starting 13500th training... cur avg sum : 0.323
+	status: 5059/6750 4501/6750
+starting 14500th training... cur avg sum : 0.316
+	status: 5522/7250 4895/7250
+starting 15500th training... cur avg sum : 0.311
+	status: 5962/7750 5304/7750
+starting 16500th training... cur avg sum : 0.306
+	status: 6410/8250 5712/8250
+starting 17500th training... cur avg sum : 0.303
+	status: 6860/8750 6099/8750
+starting 18500th training... cur avg sum : 0.300
+	status: 7312/9250 6495/9250
+starting 19500th training... cur avg sum : 0.298
+	status: 7756/9750 6879/9750
+starting 20500th training... cur avg sum : 0.295
+	status: 8201/10250 7276/10250
+starting 21500th training... cur avg sum : 0.293
+	status: 8639/10750 7678/10750
+starting 22500th training... cur avg sum : 0.290
+	status: 9098/11250 8075/11250
+starting 23500th training... cur avg sum : 0.288
+	status: 9543/11750 8482/11750
+starting 24500th training... cur avg sum : 0.286
+	status: 10004/12250 8882/12250
+starting 25500th training... cur avg sum : 0.283
+	status: 10456/12750 9295/12750
+starting 26500th training... cur avg sum : 0.282
+	status: 10905/13250 9689/13250
+starting 27500th training... cur avg sum : 0.280
+	status: 11354/13750 10092/13750
+starting 28500th training... cur avg sum : 0.278
+	status: 11803/14250 10489/14250
+starting 29500th training... cur avg sum : 0.277
+	status: 12255/14750 10880/14750
+testing 4
+now testing 5000
+	66/83 4370/4918
+now testing 15000
+	443/501 12120/14500
+now testing 25000
+	1325/1451 18390/23550
+now testing 35000
+	2391/2587 24263/32414
+now testing 45000
+	7342/7878 27819/37123
+now testing 55000
+	12027/12934 32262/42067
+now testing 65000
+	12389/13323 40318/51678
+now testing 75000
+	13211/14197 46760/60804
+now testing 85000
+	15504/16604 50293/68397
+now testing 95000
+	17066/18244 55551/76757
+finish database
+finish test 4
+50 correct rate : [0.970 nan 0.970]
+150 correct rate : [0.959 nan 0.959]
+250 correct rate : [0.943 0.401 0.946]
+350 correct rate : [0.940 0.467 0.942]
+450 correct rate : [0.921 0.738 0.923]
+550 correct rate : [0.903 0.828 0.904]
+650 correct rate : [0.898 0.848 0.898]
+750 correct rate : [0.897 0.857 0.897]
+850 correct rate : [0.891 0.879 0.891]
+950 correct rate : [0.878 0.870 0.879]
+1050 correct rate : [0.877 0.867 0.877]
+1150 correct rate : [0.882 0.867 0.883]
+1250 correct rate : [0.887 0.868 0.887]
+1350 correct rate : [0.891 0.869 0.892]
+1450 correct rate : [0.890 0.864 0.891]
+1550 correct rate : [0.888 0.867 0.889]
+1650 correct rate : [0.884 0.872 0.884]
+1750 correct rate : [0.875 0.874 0.876]
+1850 correct rate : [0.874 0.877 0.874]
+1950 correct rate : [0.877 0.877 0.877]
+
+
+training 5
+starting 500th training... cur avg sum : 0.562
+	status: 0/250 6/250
+starting 1500th training... cur avg sum : 0.555
+	status: 0/750 6/750
+starting 2500th training... cur avg sum : 0.554
+	status: 0/1250 6/1250
+starting 3500th training... cur avg sum : 0.553
+	status: 0/1750 6/1750
+starting 4500th training... cur avg sum : 0.550
+	status: 74/2250 82/2250
+starting 5500th training... cur avg sum : 0.537
+	status: 428/2750 348/2750
+starting 6500th training... cur avg sum : 0.514
+	status: 823/3250 676/3250
+starting 7500th training... cur avg sum : 0.492
+	status: 1227/3750 1014/3750
+starting 8500th training... cur avg sum : 0.477
+	status: 1629/4250 1355/4250
+starting 9500th training... cur avg sum : 0.460
+	status: 2032/4750 1740/4750
+starting 10500th training... cur avg sum : 0.447
+	status: 2445/5250 2086/5250
+starting 11500th training... cur avg sum : 0.436
+	status: 2859/5750 2462/5750
+starting 12500th training... cur avg sum : 0.424
+	status: 3275/6250 2857/6250
+starting 13500th training... cur avg sum : 0.414
+	status: 3691/6750 3249/6750
+starting 14500th training... cur avg sum : 0.404
+	status: 4120/7250 3638/7250
+starting 15500th training... cur avg sum : 0.397
+	status: 4535/7750 4043/7750
+starting 16500th training... cur avg sum : 0.391
+	status: 4955/8250 4425/8250
+starting 17500th training... cur avg sum : 0.384
+	status: 5380/8750 4829/8750
+starting 18500th training... cur avg sum : 0.377
+	status: 5813/9250 5229/9250
+starting 19500th training... cur avg sum : 0.372
+	status: 6237/9750 5633/9750
+starting 20500th training... cur avg sum : 0.365
+	status: 6671/10250 6038/10250
+starting 21500th training... cur avg sum : 0.360
+	status: 7104/10750 6447/10750
+starting 22500th training... cur avg sum : 0.356
+	status: 7523/11250 6858/11250
+starting 23500th training... cur avg sum : 0.352
+	status: 7950/11750 7261/11750
+starting 24500th training... cur avg sum : 0.349
+	status: 8373/12250 7661/12250
+starting 25500th training... cur avg sum : 0.345
+	status: 8797/12750 8074/12750
+starting 26500th training... cur avg sum : 0.341
+	status: 9236/13250 8474/13250
+starting 27500th training... cur avg sum : 0.337
+	status: 9678/13750 8896/13750
+starting 28500th training... cur avg sum : 0.334
+	status: 10102/14250 9309/14250
+starting 29500th training... cur avg sum : 0.330
+	status: 10540/14750 9723/14750
+testing 5
+now testing 5000
+	148/200 3895/4801
+now testing 15000
+	482/625 11513/14376
+now testing 25000
+	1010/1297 18886/23704
+now testing 35000
+	1631/2098 26443/32903
+now testing 45000
+	2233/2857 34379/42144
+now testing 55000
+	6961/8139 38441/46862
+now testing 65000
+	11556/13236 42771/51765
+now testing 75000
+	11884/13661 50841/61340
+now testing 85000
+	12465/14416 58386/70585
+now testing 95000
+	13284/15411 64935/79590
+finish database
+finish test 5
+50 correct rate : [0.932 0.000 0.935]
+150 correct rate : [0.924 0.287 0.928]
+250 correct rate : [0.929 0.503 0.933]
+350 correct rate : [0.922 0.587 0.925]
+450 correct rate : [0.926 0.667 0.929]
+550 correct rate : [0.930 0.652 0.933]
+650 correct rate : [0.927 0.664 0.930]
+750 correct rate : [0.930 0.667 0.933]
+850 correct rate : [0.933 0.667 0.936]
+950 correct rate : [0.936 0.676 0.938]
+1050 correct rate : [0.931 0.729 0.934]
+1150 correct rate : [0.921 0.747 0.926]
+1250 correct rate : [0.919 0.758 0.924]
+1350 correct rate : [0.922 0.758 0.927]
+1450 correct rate : [0.923 0.760 0.928]
+1550 correct rate : [0.923 0.751 0.928]
+1650 correct rate : [0.923 0.747 0.928]
+1750 correct rate : [0.924 0.739 0.929]
+1850 correct rate : [0.924 0.741 0.929]
+1950 correct rate : [0.921 0.741 0.926]
+
+
+training 6
+starting 500th training... cur avg sum : 0.562
+	status: 0/250 6/250
+starting 1500th training... cur avg sum : 0.555
+	status: 0/750 6/750
+starting 2500th training... cur avg sum : 0.554
+	status: 0/1250 6/1250
+starting 3500th training... cur avg sum : 0.552
+	status: 6/1750 15/1750
+starting 4500th training... cur avg sum : 0.548
+	status: 218/2250 176/2250
+starting 5500th training... cur avg sum : 0.528
+	status: 565/2750 489/2750
+starting 6500th training... cur avg sum : 0.505
+	status: 964/3250 810/3250
+starting 7500th training... cur avg sum : 0.488
+	status: 1359/3750 1151/3750
+starting 8500th training... cur avg sum : 0.472
+	status: 1757/4250 1524/4250
+starting 9500th training... cur avg sum : 0.457
+	status: 2170/4750 1888/4750
+starting 10500th training... cur avg sum : 0.444
+	status: 2596/5250 2253/5250
+starting 11500th training... cur avg sum : 0.433
+	status: 3016/5750 2622/5750
+starting 12500th training... cur avg sum : 0.425
+	status: 3423/6250 3000/6250
+starting 13500th training... cur avg sum : 0.417
+	status: 3828/6750 3386/6750
+starting 14500th training... cur avg sum : 0.409
+	status: 4249/7250 3770/7250
+starting 15500th training... cur avg sum : 0.403
+	status: 4666/7750 4145/7750
+starting 16500th training... cur avg sum : 0.398
+	status: 5077/8250 4538/8250
+starting 17500th training... cur avg sum : 0.392
+	status: 5507/8750 4921/8750
+starting 18500th training... cur avg sum : 0.387
+	status: 5922/9250 5298/9250
+starting 19500th training... cur avg sum : 0.383
+	status: 6328/9750 5702/9750
+starting 20500th training... cur avg sum : 0.378
+	status: 6743/10250 6102/10250
+starting 21500th training... cur avg sum : 0.374
+	status: 7170/10750 6485/10750
+starting 22500th training... cur avg sum : 0.371
+	status: 7597/11250 6859/11250
+starting 23500th training... cur avg sum : 0.367
+	status: 8029/11750 7237/11750
+starting 24500th training... cur avg sum : 0.364
+	status: 8440/12250 7631/12250
+starting 25500th training... cur avg sum : 0.361
+	status: 8867/12750 8024/12750
+starting 26500th training... cur avg sum : 0.358
+	status: 9303/13250 8417/13250
+starting 27500th training... cur avg sum : 0.354
+	status: 9748/13750 8812/13750
+starting 28500th training... cur avg sum : 0.351
+	status: 10169/14250 9209/14250
+starting 29500th training... cur avg sum : 0.347
+	status: 10605/14750 9630/14750
+testing 6
+now testing 5000
+	43/89 4062/4912
+now testing 15000
+	197/320 12354/14681
+now testing 25000
+	437/658 20442/24343
+now testing 35000
+	1219/1648 26346/33353
+now testing 45000
+	2542/3227 32006/41774
+now testing 55000
+	2805/3569 40267/51432
+now testing 65000
+	6969/8603 44888/56398
+now testing 75000
+	11358/13809 48635/61192
+now testing 85000
+	11855/14449 55952/70552
+now testing 95000
+	12157/14867 64220/80134
+finish database
+finish test 6
+50 correct rate : [0.949 0.000 0.955]
+150 correct rate : [0.948 0.408 0.951]
+250 correct rate : [0.949 0.306 0.952]
+350 correct rate : [0.952 0.445 0.955]
+450 correct rate : [0.953 0.502 0.955]
+550 correct rate : [0.946 0.589 0.948]
+650 correct rate : [0.943 0.603 0.945]
+750 correct rate : [0.930 0.714 0.933]
+850 correct rate : [0.931 0.706 0.934]
+950 correct rate : [0.930 0.693 0.933]
+1050 correct rate : [0.933 0.698 0.936]
+1150 correct rate : [0.937 0.699 0.939]
+1250 correct rate : [0.934 0.695 0.938]
+1350 correct rate : [0.925 0.701 0.931]
+1450 correct rate : [0.921 0.695 0.928]
+1550 correct rate : [0.921 0.694 0.928]
+1650 correct rate : [0.923 0.692 0.929]
+1750 correct rate : [0.922 0.694 0.928]
+1850 correct rate : [0.924 0.694 0.929]
+1950 correct rate : [0.926 0.690 0.932]
+
+
+training 7
+starting 500th training... cur avg sum : 0.562
+	status: 0/250 6/250
+starting 1500th training... cur avg sum : 0.555
+	status: 0/750 6/750
+starting 2500th training... cur avg sum : 0.537
+	status: 213/1250 188/1250
+starting 3500th training... cur avg sum : 0.506
+	status: 585/1750 521/1750
+starting 4500th training... cur avg sum : 0.481
+	status: 970/2250 851/2250
+starting 5500th training... cur avg sum : 0.461
+	status: 1364/2750 1193/2750
+starting 6500th training... cur avg sum : 0.444
+	status: 1766/3250 1543/3250
+starting 7500th training... cur avg sum : 0.432
+	status: 2172/3750 1892/3750
+starting 8500th training... cur avg sum : 0.422
+	status: 2576/4250 2253/4250
+starting 9500th training... cur avg sum : 0.413
+	status: 2985/4750 2612/4750
+starting 10500th training... cur avg sum : 0.402
+	status: 3410/5250 2992/5250
+starting 11500th training... cur avg sum : 0.397
+	status: 3821/5750 3357/5750
+starting 12500th training... cur avg sum : 0.393
+	status: 4216/6250 3738/6250
+starting 13500th training... cur avg sum : 0.390
+	status: 4637/6750 4094/6750
+starting 14500th training... cur avg sum : 0.385
+	status: 5043/7250 4471/7250
+starting 15500th training... cur avg sum : 0.382
+	status: 5451/7750 4830/7750
+starting 16500th training... cur avg sum : 0.378
+	status: 5865/8250 5197/8250
+starting 17500th training... cur avg sum : 0.375
+	status: 6278/8750 5580/8750
+starting 18500th training... cur avg sum : 0.372
+	status: 6697/9250 5935/9250
+starting 19500th training... cur avg sum : 0.370
+	status: 7096/9750 6309/9750
+starting 20500th training... cur avg sum : 0.367
+	status: 7513/10250 6682/10250
+starting 21500th training... cur avg sum : 0.365
+	status: 7913/10750 7070/10750
+starting 22500th training... cur avg sum : 0.363
+	status: 8328/11250 7457/11250
+starting 23500th training... cur avg sum : 0.360
+	status: 8745/11750 7844/11750
+starting 24500th training... cur avg sum : 0.357
+	status: 9172/12250 8222/12250
+starting 25500th training... cur avg sum : 0.356
+	status: 9581/12750 8583/12750
+starting 26500th training... cur avg sum : 0.354
+	status: 9995/13250 8966/13250
+starting 27500th training... cur avg sum : 0.352
+	status: 10413/13750 9345/13750
+starting 28500th training... cur avg sum : 0.350
+	status: 10821/14250 9731/14250
+starting 29500th training... cur avg sum : 0.349
+	status: 11238/14750 10113/14750
+testing 7
+now testing 5000
+	448/716 3781/4285
+now testing 15000
+	3131/4222 9054/10779
+now testing 25000
+	8994/11293 10665/13708
+now testing 35000
+	14591/17754 13187/17247
+now testing 45000
+	20001/23891 15901/21110
+now testing 55000
+	23776/28125 20527/26876
+now testing 65000
+	25588/30547 27164/34454
+now testing 75000
+	30987/37309 29911/37692
+now testing 85000
+	37522/45162 31290/39839
+now testing 95000
+	41038/49544 35510/45457
+finish database
+finish test 7
+50 correct rate : [0.941 0.547 0.953]
+150 correct rate : [0.902 0.389 0.938]
+250 correct rate : [0.875 0.502 0.921]
+350 correct rate : [0.850 0.552 0.905]
+450 correct rate : [0.830 0.599 0.889]
+550 correct rate : [0.818 0.648 0.873]
+650 correct rate : [0.813 0.650 0.868]
+750 correct rate : [0.811 0.644 0.869]
+850 correct rate : [0.812 0.659 0.866]
+950 correct rate : [0.806 0.674 0.857]
+1050 correct rate : [0.808 0.681 0.857]
+1150 correct rate : [0.817 0.678 0.866]
+1250 correct rate : [0.822 0.675 0.870]
+1350 correct rate : [0.826 0.675 0.874]
+1450 correct rate : [0.822 0.675 0.871]
+1550 correct rate : [0.816 0.671 0.869]
+1650 correct rate : [0.813 0.671 0.867]
+1750 correct rate : [0.810 0.676 0.862]
+1850 correct rate : [0.811 0.674 0.862]
+1950 correct rate : [0.810 0.667 0.864]
+
+
+training 8
+starting 500th training... cur avg sum : 0.562
+	status: 0/250 5/250
+starting 1500th training... cur avg sum : 0.554
+	status: 1/750 5/750
+starting 2500th training... cur avg sum : 0.528
+	status: 274/1250 243/1250
+starting 3500th training... cur avg sum : 0.471
+	status: 665/1750 626/1750
+starting 4500th training... cur avg sum : 0.434
+	status: 1067/2250 1022/2250
+starting 5500th training... cur avg sum : 0.409
+	status: 1468/2750 1427/2750
+starting 6500th training... cur avg sum : 0.387
+	status: 1875/3250 1854/3250
+starting 7500th training... cur avg sum : 0.371
+	status: 2293/3750 2261/3750
+starting 8500th training... cur avg sum : 0.357
+	status: 2712/4250 2678/4250
+starting 9500th training... cur avg sum : 0.348
+	status: 3126/4750 3100/4750
+starting 10500th training... cur avg sum : 0.340
+	status: 3557/5250 3501/5250
+starting 11500th training... cur avg sum : 0.330
+	status: 3985/5750 3924/5750
+starting 12500th training... cur avg sum : 0.325
+	status: 4408/6250 4341/6250
+starting 13500th training... cur avg sum : 0.316
+	status: 4849/6750 4770/6750
+starting 14500th training... cur avg sum : 0.310
+	status: 5281/7250 5196/7250
+starting 15500th training... cur avg sum : 0.304
+	status: 5717/7750 5623/7750
+starting 16500th training... cur avg sum : 0.300
+	status: 6146/8250 6045/8250
+starting 17500th training... cur avg sum : 0.296
+	status: 6577/8750 6476/8750
+starting 18500th training... cur avg sum : 0.293
+	status: 6996/9250 6918/9250
+starting 19500th training... cur avg sum : 0.288
+	status: 7445/9750 7346/9750
+starting 20500th training... cur avg sum : 0.285
+	status: 7872/10250 7780/10250
+starting 21500th training... cur avg sum : 0.283
+	status: 8303/10750 8207/10750
+starting 22500th training... cur avg sum : 0.280
+	status: 8737/11250 8627/11250
+starting 23500th training... cur avg sum : 0.278
+	status: 9173/11750 9063/11750
+starting 24500th training... cur avg sum : 0.275
+	status: 9617/12250 9489/12250
+starting 25500th training... cur avg sum : 0.273
+	status: 10048/12750 9926/12750
+starting 26500th training... cur avg sum : 0.270
+	status: 10493/13250 10359/13250
+starting 27500th training... cur avg sum : 0.268
+	status: 10924/13750 10797/13750
+starting 28500th training... cur avg sum : 0.266
+	status: 11367/14250 11235/14250
+starting 29500th training... cur avg sum : 0.264
+	status: 11799/14750 11669/14750
+testing 8
+now testing 5000
+	362/505 4016/4496
+now testing 15000
+	1545/1984 11546/13017
+now testing 25000
+	3290/4014 18010/20987
+now testing 35000
+	5136/6121 24311/28880
+now testing 45000
+	9574/10921 28253/34080
+now testing 55000
+	13759/15427 32891/39574
+now testing 65000
+	14640/16472 41026/48529
+now testing 75000
+	16312/18398 47786/56603
+now testing 85000
+	21918/24834 50463/60167
+now testing 95000
+	26520/30171 54816/64830
+finish database
+finish test 8
+50 correct rate : [0.931 0.878 0.932]
+150 correct rate : [0.953 0.878 0.955]
+250 correct rate : [0.950 0.721 0.958]
+350 correct rate : [0.948 0.724 0.956]
+450 correct rate : [0.936 0.725 0.946]
+550 correct rate : [0.928 0.758 0.938]
+650 correct rate : [0.923 0.760 0.933]
+750 correct rate : [0.923 0.742 0.933]
+850 correct rate : [0.919 0.771 0.929]
+950 correct rate : [0.908 0.781 0.920]
+1050 correct rate : [0.909 0.786 0.920]
+1150 correct rate : [0.912 0.787 0.923]
+1250 correct rate : [0.914 0.783 0.926]
+1350 correct rate : [0.917 0.778 0.928]
+1450 correct rate : [0.919 0.777 0.930]
+1550 correct rate : [0.919 0.783 0.930]
+1650 correct rate : [0.916 0.780 0.928]
+1750 correct rate : [0.912 0.777 0.926]
+1850 correct rate : [0.912 0.776 0.927]
+1950 correct rate : [0.914 0.773 0.928]
+
+
+training 9
+starting 500th training... cur avg sum : 0.562
+	status: 0/250 6/250
+starting 1500th training... cur avg sum : 0.555
+	status: 0/750 6/750
+starting 2500th training... cur avg sum : 0.553
+	status: 0/1250 6/1250
+starting 3500th training... cur avg sum : 0.539
+	status: 223/1750 186/1750
+starting 4500th training... cur avg sum : 0.505
+	status: 608/2250 515/2250
+starting 5500th training... cur avg sum : 0.474
+	status: 1019/2750 873/2750
+starting 6500th training... cur avg sum : 0.448
+	status: 1441/3250 1224/3250
+starting 7500th training... cur avg sum : 0.424
+	status: 1877/3750 1600/3750
+starting 8500th training... cur avg sum : 0.405
+	status: 2310/4250 1995/4250
+starting 9500th training... cur avg sum : 0.391
+	status: 2743/4750 2383/4750
+starting 10500th training... cur avg sum : 0.377
+	status: 3173/5250 2794/5250
+starting 11500th training... cur avg sum : 0.368
+	status: 3608/5750 3186/5750
+starting 12500th training... cur avg sum : 0.357
+	status: 4053/6250 3586/6250
+starting 13500th training... cur avg sum : 0.350
+	status: 4487/6750 3993/6750
+starting 14500th training... cur avg sum : 0.342
+	status: 4921/7250 4399/7250
+starting 15500th training... cur avg sum : 0.337
+	status: 5351/7750 4807/7750
+starting 16500th training... cur avg sum : 0.331
+	status: 5802/8250 5208/8250
+starting 17500th training... cur avg sum : 0.326
+	status: 6235/8750 5621/8750
+starting 18500th training... cur avg sum : 0.321
+	status: 6681/9250 6027/9250
+starting 19500th training... cur avg sum : 0.315
+	status: 7125/9750 6448/9750
+starting 20500th training... cur avg sum : 0.311
+	status: 7560/10250 6861/10250
+starting 21500th training... cur avg sum : 0.308
+	status: 8006/10750 7264/10750
+starting 22500th training... cur avg sum : 0.304
+	status: 8456/11250 7671/11250
+starting 23500th training... cur avg sum : 0.300
+	status: 8897/11750 8092/11750
+starting 24500th training... cur avg sum : 0.298
+	status: 9336/12250 8488/12250
+starting 25500th training... cur avg sum : 0.295
+	status: 9795/12750 8901/12750
+starting 26500th training... cur avg sum : 0.292
+	status: 10244/13250 9312/13250
+starting 27500th training... cur avg sum : 0.289
+	status: 10699/13750 9729/13750
+starting 28500th training... cur avg sum : 0.286
+	status: 11160/14250 10144/14250
+starting 29500th training... cur avg sum : 0.284
+	status: 11615/14750 10547/14750
+testing 9
+now testing 5000
+	23/33 4788/4968
+now testing 15000
+	987/1226 11893/13775
+now testing 25000
+	2231/2775 18096/22226
+now testing 35000
+	2537/3226 26601/31775
+now testing 45000
+	2752/3518 35577/41483
+now testing 55000
+	2896/3740 44144/51261
+now testing 65000
+	3127/4055 52461/60946
+now testing 75000
+	3454/4497 61043/70504
+now testing 85000
+	3802/4978 69503/80023
+now testing 95000
+	7983/10078 74040/84923
+finish database
+finish test 9
+50 correct rate : [0.996 nan 0.996]
+150 correct rate : [0.988 nan 0.988]
+250 correct rate : [0.972 0.533 0.973]
+350 correct rate : [0.945 0.718 0.949]
+450 correct rate : [0.944 0.677 0.949]
+550 correct rate : [0.948 0.688 0.952]
+650 correct rate : [0.948 0.662 0.953]
+750 correct rate : [0.952 0.642 0.956]
+850 correct rate : [0.955 0.633 0.959]
+950 correct rate : [0.959 0.623 0.962]
+1050 correct rate : [0.960 0.628 0.964]
+1150 correct rate : [0.960 0.640 0.963]
+1250 correct rate : [0.961 0.640 0.964]
+1350 correct rate : [0.963 0.640 0.966]
+1450 correct rate : [0.964 0.638 0.967]
+1550 correct rate : [0.963 0.613 0.966]
+1650 correct rate : [0.963 0.613 0.966]
+1750 correct rate : [0.965 0.617 0.967]
+1850 correct rate : [0.962 0.642 0.966]
+1950 correct rate : [0.956 0.651 0.963]
+testing all
+50 correct rate : 0.694
+150 correct rate : 0.691
+250 correct rate : 0.686
+350 correct rate : 0.682
+450 correct rate : 0.689
+550 correct rate : 0.698
+650 correct rate : 0.695
+750 correct rate : 0.693
+850 correct rate : 0.698
+950 correct rate : 0.705
+1050 correct rate : 0.706
+1150 correct rate : 0.699
+1250 correct rate : 0.696
+1350 correct rate : 0.696
+1450 correct rate : 0.695
+1550 correct rate : 0.695
+1650 correct rate : 0.696
+1750 correct rate : 0.697
+1850 correct rate : 0.697
+1950 correct rate : 0.694
+50 map : 0.667
+150 map : 0.664
+250 map : 0.683
+350 map : 0.697
+450 map : 0.722
+550 map : 0.749
+650 map : 0.750
+750 map : 0.750
+850 map : 0.756
+950 map : 0.772
+1050 map : 0.766
+1150 map : 0.743
+1250 map : 0.730
+1350 map : 0.720
+1450 map : 0.718
+1550 map : 0.726
+1650 map : 0.732
+1750 map : 0.739
+1850 map : 0.740
+1950 map : 0.735
+MAP = 0.733
