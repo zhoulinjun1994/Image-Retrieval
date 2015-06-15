@@ -46,4 +46,6 @@ NUS可以跑到0.73：修改了get_similarity函数：本来是都>=0.6的话加
 2ktag中是把wiki的文章中选了tfidf最大的2k个以及cnn的10个输出作为mlp的输入训练。MAP=0.83。
 5ktag中把tag的个数扩展到5k个，训练轮数改为2次。得出来的结果经过check.cpp之后可以得到0.908的MAP。
 
+新增check.cpp，编译运行可以算出MAP。
+
 ```
